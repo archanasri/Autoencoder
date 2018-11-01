@@ -4,5 +4,5 @@ The autoencoder takes a scalar input and transforms it into a 3-mode real valued
 
 Packages Used:
 
--Tensorflow
+-Tensorflow \\
 -PyTorch
